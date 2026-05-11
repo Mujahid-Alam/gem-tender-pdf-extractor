@@ -1,4 +1,4 @@
-# 🏛️ GeM Tender Scraper & PDF Data Extraction System
+# 🏛️ GeM Tender Scraper & PDF Data Extraction System (MongoDB Integrated)
 
 A Python-based end-to-end data pipeline that scrapes tender listings from the Government e-Marketplace (GeM) portal, downloads associated PDF documents, extracts structured information, and stores the data in MongoDB for analysis and automation.
 
